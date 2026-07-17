@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="MainScene" extends="Scene">
+
+    <interface>
+    </interface>
+
+    <children>
+
+        <Label
+            id="helloText"
+            text="Hello, World!"
+            width="1920"
+            height="1080"
+            horizAlign="center"
+            vertAlign="center"
+            font="font:LargeSystemFont"
+        />
+
+    </children>
+
+</component>
